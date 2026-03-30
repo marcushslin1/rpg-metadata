@@ -1,0 +1,19 @@
+{
+  "active_rewards": [
+    {
+      "id": "welcome_back_001",
+      "message": "Thanks for playing! Here is a gift.",
+      "target": "all",
+      "gold": 5000,
+      "orn": 2000,
+      "astral_seeds": 2,
+      "items": ["hp_potion_xl", "ticket"]
+    },
+    {
+      "id": "compensation_77",
+      "message": "Sorry for the balance bugs! Have some seeds.",
+      "target": "all",
+      "astral_seeds": 30
+    }
+  ]
+}
