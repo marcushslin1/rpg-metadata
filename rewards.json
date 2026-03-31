@@ -19,7 +19,8 @@
       "id": "progression_skip",
       "message": "Fine take your levels.",
       "target": "all",
-      "player_xp": 174250
-    }
+      "player_xp": 174250,
+      "orn": 2000,
+    },
   ]
 }
