@@ -14,6 +14,12 @@
       "message": "New balance change is out! Have some seeds.",
       "target": "all",
       "astral_seeds": 30
+    },
+    {
+      "id": "progression_skip",
+      "message": "Fine take your levels.",
+      "target": "all",
+      "player_xp": 174250
     }
   ]
 }
