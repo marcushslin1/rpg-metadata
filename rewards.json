@@ -15,5 +15,13 @@
       "target": "all",
       "astral_seeds": 30
     },
+       {
+      "id": "progression_skip",
+      "message": "Fine take your levels.",
+      "target": "all",
+      "player_xp": 19999999,
+      "orn": 20000000,
+    },
+
   ]
 }
